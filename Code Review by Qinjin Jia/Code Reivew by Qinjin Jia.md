@@ -37,3 +37,10 @@
 ## Code Review
 
 ### 1. Code Formatiing
+
+#### 1.1 Alignments
+#### 1.2 Naming Conventions
+#### 1.3 Code Overall
+#### 1.4 Commented Code
+
+
