@@ -41,6 +41,7 @@
 ### 1. Code Formatiing
 
 #### 1.1 Alignments
+         The uses of alignments are perfect. The code block starting point and ending point are easily identifiable.
 
 #### 1.2 Naming Conventions
 
