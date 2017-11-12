@@ -77,6 +77,14 @@ public class Database {
 </br>
 
 ### 4. Non Functional requirements
+#### 4.1 Maintainability
+#### 4.2 Reusability
+#### 4.3 Reliability:
+#### 4.4 Extensibility
+#### 4.5 Security
+#### 4.6 Performance
+#### 4.7 Scalability
+#### 4.8 Usability
 
 </br>
 
