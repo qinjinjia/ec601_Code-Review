@@ -106,11 +106,32 @@ The project is still under development :construction:, therefore, **"Testability
 
 
 #### 4.2 Reusability
+DRY (Do not Repeat Yourself) principle: The same code should not be repeated more than twice.
+Consider reusable services, functions and components.
+Consider generic functions and classes.
+:link: [writeToFireBase.java](https://github.com/kev5/Go-Meet/blob/master/writeToFireBase.java)
+```
+    public void likePost(String postID){
+        DatabaseReference commentPostRef = this.writepostRef.child(postID);
+        commentPostRef.child("likes").push().setValue(this.user.getUid());
+    }
+
+    public void dislikePost(String postID){
+        DatabaseReference commentPostRef = this.writepostRef.child(postID);
+        commentPostRef.child("dislikes").push().setValue(this.user.getUid());
+    }
+```
+
 #### 4.3 Reliability:
+
 #### 4.4 Extensibility
+
 #### 4.5 Security
+
 #### 4.6 Performance
+
 #### 4.7 Scalability
+
 #### 4.8 Usability
 
 </br>
