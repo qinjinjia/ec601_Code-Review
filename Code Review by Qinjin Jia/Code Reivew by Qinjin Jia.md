@@ -14,7 +14,7 @@
  
  :new_moon: The Github Repository of the Project **[Go & Meet](https://github.com/kev5/Go-Meet)** is abundant and **there is a ReadMe file in the repository, which is perfect**.
  
- :waxing_crescent_moon: GitHub file structure and directory structure and if it is clearly understandable.
+ :waxing_crescent_moon: However, there are many files in the Repository and GitHub file structure and directory structure is not clearly understandable. It seems that it is because the project is still under development. 
 
- :first_quarter_moon:
+ :first_quarter_moon: 
 ##
