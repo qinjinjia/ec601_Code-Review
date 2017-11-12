@@ -83,14 +83,15 @@ and the commented code in [MainActivity.java](https://github.com/kev5/Go-Meet/bl
 :thumbsup: Good!. There is no [hard coding](https://en.wikipedia.org/wiki/Hard_coding) in the project.
 
 #### 3.2 Enumeration
-
+The java file :link: [MainActivity.java](https://github.com/kev5/Go-Meet/blob/master/MainActivity.java) contains **[magic number](https://en.wikipedia.org/wiki/Magic_number_(programming))** 
+```
         mWrite.writePosts("1",post01);
         mWrite.writePosts("2",post02);
         mWrite.writePosts("3",post03);
         mWrite.writePosts("4",post04);
         mWrite.writePosts("5",post05);
         mWrite.writePosts("6",post06);
-        
+```
 #### 3.3 Comments
 
 #### 3.4 Mul if/else blocks
