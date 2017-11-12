@@ -45,4 +45,14 @@
 #### 1.3 Code Layout
 #### 1.4 Commented Code
 
+### 2. Architecture
 
+### 3. Coding best practices
+
+### 4. Non Functional requirements
+
+### 5. Object-Oriented Analysis and Design (OOAD) Principles
+
+#### 5.1 Single Responsibility Principle(SRS)
+#### 5.2 Open Closed Principle
+#### 5.3 
