@@ -51,16 +51,15 @@ The ‘camelCode’ nameing convention is used in the project. The developers ut
 Perfect! The code can fit in the standard 14-inch laptop screen.
 
 #### 1.4 Commented Code
-   The commented code in [Database.java](https://github.com/kev5/Go-Meet/blob/master/Database.java) should be delected (Or move from the master branch).   
+   The commented code in [Database.java](https://github.com/kev5/Go-Meet/blob/master/Database.java) should be delected (Or moved from the master branch).   
 ```
 public class Database {
     public FirebaseDatabase mDatabase;
     public DatabaseReference myRef;
-//    public String ID = "690";   <-This line should be removed
+//    public String ID = "690";   <-This commented code should be removed
     public Database(){
     }
 ```
-
 
 ### 2. Architecture
 
