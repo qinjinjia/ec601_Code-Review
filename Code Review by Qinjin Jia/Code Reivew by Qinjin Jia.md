@@ -61,6 +61,8 @@ public class Database {
     }
 ```
 
+</br>
+
 ### 2. Architecture
 
 ### 3. Coding best practices
