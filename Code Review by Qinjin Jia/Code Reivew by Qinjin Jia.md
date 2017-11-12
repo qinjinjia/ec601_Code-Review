@@ -12,7 +12,7 @@
 ## Overall
  :new_moon_with_face: This is an interesting project. This project is essentially a **social/recreational application** which gives information of all the events  (public/private) happening in the local vicinity of the user on a real-time basis.
  
- :new_moon:The Github Repository of the Project **[Go & Meet](https://github.com/kev5/Go-Meet)** is abundant and **there is a ReadMe file in the repository**.
+ :new_moon: The Github Repository of the Project **[Go & Meet](https://github.com/kev5/Go-Meet)** is abundant and **there is a ReadMe file in the repository**.
  
  :waxing_crescent_moon: GitHub file structure and directory structure and if it is clearly understandable.
 
