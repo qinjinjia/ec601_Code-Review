@@ -83,4 +83,8 @@ public class Database {
 #### 5.4 Interface segregation:
 #### 5.5 Dependency Injection:
 
+## Summary
+### Good Points:
+### Can be better:
+
 :trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface:
