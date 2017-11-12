@@ -21,13 +21,13 @@
 
  :first_quarter_moon: There are ten java files I reviewed:
           
-          |File Name |Link |
-          |--|--
-          |ChooseLoginRegistrationActivity.java|:link:[ChooseLoginRegistrationActivity.java](https://github.com/kev5/Go-Meet/blob/master/ChooseLoginRegistrationActivity.java)|
-          |||
-          |||
-          |||
-          |||
-          |||
+ |File Name |Link |
+ |--|--
+ |ChooseLoginRegistrationActivity.java|:link:[ChooseLoginRegistrationActivity.java](https://github.com/kev5/Go-Meet/blob/master/ChooseLoginRegistrationActivity.java)|
+ |||
+ |||
+ |||
+ |||
+ |||
           
 ##
