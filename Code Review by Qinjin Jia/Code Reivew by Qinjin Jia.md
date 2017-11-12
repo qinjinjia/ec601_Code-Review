@@ -12,6 +12,8 @@
 
   :sun_with_face: Summary of the Code Review Criteria :link: [Code Review Criteria.pdf](https://github.com/qinjinjia/ec601_Code-Review/blob/master/Code%20Review%20by%20Qinjin%20Jia/Code%20Review%20Criteria.pdf) 
  
+ :full_moon_with_face: Code Review auxiliary tool: [jslint](http://www.jslint.com)
+ 
 ## Overall
  :new_moon_with_face: This is an exciting project **[Go & Meet](https://github.com/kev5/Go-Meet)**. The project is essentially a **social/recreational application** which gives information of all the events  (public/private) happening in the local vicinity of the user on a real-time basis.
  
