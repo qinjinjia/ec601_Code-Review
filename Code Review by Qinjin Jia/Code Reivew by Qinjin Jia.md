@@ -41,7 +41,6 @@
 ### 1. Code Formatiing
 
 #### 1.1 Alignments
-
 The uses of alignments are perfect. The code block starting point and ending point are easily identifiable.
 
 #### 1.2 Naming Conventions
@@ -51,7 +50,7 @@ The ‘camelCode’ nameing convention is used in the project. The developers ut
 Perfect! The code can fit in the standard 14-inch laptop screen.
 
 #### 1.4 Commented Code
-   The commented code in [Database.java](https://github.com/kev5/Go-Meet/blob/master/Database.java) should be delected (Or moved from the master branch).   
+The commented code in [Database.java](https://github.com/kev5/Go-Meet/blob/master/Database.java) should be delected (Or moved from the master branch).   
 ```
 public class Database {
     public FirebaseDatabase mDatabase;
@@ -59,6 +58,15 @@ public class Database {
 //    public String ID = "690";   <-This commented code should be removed
     public Database(){
     }
+```
+:link: [MainActivity.java](https://github.com/kev5/Go-Meet/blob/master/MainActivity.java)
+```
+        al.add(post01.getPostText());
+//        al.add(post02.getPostText());
+//        al.add(post03.getPostText());
+//        al.add(post04.getPostText());
+//        al.add(post05.getPostText());
+//        al.add(post06.getPostText());
 ```
 
 </br>
@@ -68,10 +76,23 @@ public class Database {
 </br>
 
 ### 3. Coding best practices
+
 #### 3.1 Hard Coding
+Good!. There is no hard coding in the project.
+
 #### 3.2 Enumeration
+
+        mWrite.writePosts("1",post01);
+        mWrite.writePosts("2",post02);
+        mWrite.writePosts("3",post03);
+        mWrite.writePosts("4",post04);
+        mWrite.writePosts("5",post05);
+        mWrite.writePosts("6",post06);
+        
 #### 3.3 Comments
+
 #### 3.4 Mul if/else blocks
+
 #### 3.5 Framework features
 
 </br>
