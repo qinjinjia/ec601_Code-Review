@@ -28,11 +28,11 @@
  |ChooseLoginRegistrationActivity.java|:link: [ChooseLoginRegistrationActivity.java](https://github.com/kev5/Go-Meet/blob/master/ChooseLoginRegistrationActivity.java)|
  |Community.java|:link: [Community.java](https://github.com/kev5/Go-Meet/blob/master/Community.java)|
  |Database.java|:link: [Database.java](https://github.com/kev5/Go-Meet/blob/master/Database.java)|
- |Database.java|:link: [Database.java](https://github.com/kev5/Go-Meet/blob/master/Database.java)|
  |LoginActivity.java|:link: [LoginActivity.java](https://github.com/kev5/Go-Meet/blob/master/LoginActivity.java)|
  |MainActivity.java|:link: [MainActivity.java](https://github.com/kev5/Go-Meet/blob/master/MainActivity.java)|
  |Post.java|:link: [Post.java](https://github.com/kev5/Go-Meet/blob/master/Post.java)|
  |RegistrationActivity.java|:link: [RegistrationActivity.java](https://github.com/kev5/Go-Meet/blob/master/RegistrationActivity.java)|
+ |User.java|:link: [User.java](https://github.com/kev5/Go-Meet/blob/master/User.java)|
  |readFromFireBase.java|:link: [readFromFireBase.java](https://github.com/kev5/Go-Meet/blob/master/readFromFireBase.java)|
  |writeToFireBase.java|:link: [writeToFireBase.java](https://github.com/kev5/Go-Meet/blob/master/writeToFireBase.java)|
           
@@ -48,19 +48,19 @@ The uses of alignments are perfect. The code block starting point and ending poi
 The ‘camelCode’ nameing convention is used in the project. The developers utilize capital letters to indicate the start of a word, which makes name of variables are meaningful.
 
 #### 1.3 Code Layout
+Perfect! The code can fit in the standard 14-inch laptop screen.
 
 #### 1.4 Commented Code
-   
+   The commented code in [Database.java](https://github.com/kev5/Go-Meet/blob/master/Database.java) should be delected (Or move from the master branch).   
 ```
 public class Database {
     public FirebaseDatabase mDatabase;
     public DatabaseReference myRef;
-//    public String ID = "690";
+//    public String ID = "690";   <-This line should be removed
     public Database(){
     }
 ```
 
-        https://github.com/kev5/Go-Meet/blob/master/readFromFireBase.java
 
 ### 2. Architecture
 
