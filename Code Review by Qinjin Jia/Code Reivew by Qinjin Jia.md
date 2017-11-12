@@ -57,14 +57,14 @@ For instance, the commented code in [Database.java](https://github.com/kev5/Go-M
 public class Database {
     public FirebaseDatabase mDatabase;
     public DatabaseReference myRef;
-//    public String ID = "690";   <-This commented code should be removed
+//    public String ID = "690";                <-This commented code should be removed
     public Database(){
     }
 ```
 and the commented code in [MainActivity.java](https://github.com/kev5/Go-Meet/blob/master/MainActivity.java) should be removed.
 ```
         al.add(post01.getPostText());
-//        al.add(post02.getPostText());
+//        al.add(post02.getPostText());        <-This commented code should be removed
 //        al.add(post03.getPostText());
 //        al.add(post04.getPostText());
 //        al.add(post05.getPostText());
