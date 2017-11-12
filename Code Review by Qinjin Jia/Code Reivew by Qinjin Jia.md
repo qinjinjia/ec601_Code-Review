@@ -41,9 +41,21 @@
 ### 1. Code Formatiing
 
 #### 1.1 Alignments
+
 #### 1.2 Naming Conventions
+
 #### 1.3 Code Layout
+
 #### 1.4 Commented Code
+"""
+public class Database {
+    public FirebaseDatabase mDatabase;
+    public DatabaseReference myRef;
+//    public String ID = "690";
+    public Database(){
+    }
+"""
+        https://github.com/kev5/Go-Meet/blob/master/readFromFireBase.java
 
 ### 2. Architecture
 
