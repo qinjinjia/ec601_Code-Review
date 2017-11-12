@@ -2,7 +2,7 @@
 ## Brief Introduction :sunglasses:
   Hello Everyone! :trollface::trollface::trollface::trollface:
   
-  This is the page for **EC601(Fall 2017) A1 Code Review** 
+  This is the page for **EC601(Fall 2017) A1 Code Review Assignment** 
   
   The project reviewed: **[@github.com/kev5/Go-Meet](https://github.com/kev5/Go-Meet)**
   
