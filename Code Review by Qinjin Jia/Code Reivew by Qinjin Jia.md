@@ -44,7 +44,7 @@
 The uses of alignments are perfect. The code block starting point and ending point are easily identifiable.
 
 #### 1.2 Naming Conventions
-The ‘camelCode’ nameing convention is used in the project. The developers utilize capital letters to indicate the start of a word, which makes name of variables are meaningful.
+The ‘camelCode’ nameing convention is used in the project. The developers utilize capital letters to indicate the start of a word, which makes name of variables be meaningful.
 
 #### 1.3 Code Layout
 Perfect! The code can fit in the standard 14-inch laptop screen.
@@ -101,7 +101,7 @@ Good!. There is no hard coding in the project.
 
 ### 4. Non Functional requirements
 #### 4.1 Maintainability(Supportability) 
-The **Readability** of the code is good. The team uses ‘camelCode’ nameing convention, which makes name of variables are meaningful.
+The **Readability** of the code is good. The team uses **‘camelCode’ nameing convention**, which makes name of variables be meaningful.
 The project is still under development :construction:, therefore, **"Testability", "Debuggability", "Configurability"** of the project are not reviewed.
 
 
@@ -133,6 +133,7 @@ Consider generic functions and classes.
 #### 4.7 Scalability
 
 #### 4.8 Usability
+
 
 </br>
 
