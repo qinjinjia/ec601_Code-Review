@@ -45,6 +45,7 @@
 The uses of alignments are perfect. The code block starting point and ending point are easily identifiable.
 
 #### 1.2 Naming Conventions
+The ‘camelCode’ nameing convention is used in the project, the developers utilize capital letters to indicate the start of a word. The name of variables are meaningful.
 
 #### 1.3 Code Layout
 
