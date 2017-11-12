@@ -65,9 +65,15 @@ public class Database {
 
 ### 2. Architecture
 
+</br>
+
 ### 3. Coding best practices
 
+</br>
+
 ### 4. Non Functional requirements
+
+</br>
 
 ### 5. Object-Oriented Analysis and Design (OOAD) Principles
 
@@ -76,3 +82,5 @@ public class Database {
 #### 5.3 Liskov substitutability principle
 #### 5.4 Interface segregation:
 #### 5.5 Dependency Injection:
+
+:trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface:
