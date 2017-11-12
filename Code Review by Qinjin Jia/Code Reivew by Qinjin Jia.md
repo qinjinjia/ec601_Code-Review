@@ -19,5 +19,14 @@
  
  :waxing_crescent_moon: However, there are many files in the Repository and **GitHub file structure and directory structure is not clearly understandable**. It seems that it is because the project is still under development :construction:. 
 
- :first_quarter_moon: 
+ :first_quarter_moon: There are ten java files I reviewed:
+          
+          |File Name |Link |
+          |--|--
+          |ChooseLoginRegistrationActivity.java|:link:[ChooseLoginRegistrationActivity.java](https://github.com/kev5/Go-Meet/blob/master/ChooseLoginRegistrationActivity.java)|
+          |||
+          |||
+          |||
+          |||
+          |||
 ##
