@@ -80,7 +80,7 @@ and the commented code in [MainActivity.java](https://github.com/kev5/Go-Meet/bl
 ### 3. Coding best practices
 
 #### 3.1 Hard Coding
-Good!. There is no hard coding in the project.
+:thumbsup: Good!. There is no [hard coding](https://en.wikipedia.org/wiki/Hard_coding) in the project.
 
 #### 3.2 Enumeration
 
