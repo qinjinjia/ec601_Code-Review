@@ -102,7 +102,7 @@ Good!. There is no hard coding in the project.
 ### 4. Non Functional requirements
 #### 4.1 Maintainability(Supportability) 
 The **Readability** of the code is good. The team uses ‘camelCode’ nameing convention, which makes name of variables are meaningful.
-The project is still under development :construction:, therefore, "Testability", "Debuggability", "Configurability" of the project are not reviewed.
+The project is still under development :construction:, therefore, **"Testability", "Debuggability", "Configurability"** of the project are not reviewed.
 
 
 #### 4.2 Reusability
