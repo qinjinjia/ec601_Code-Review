@@ -55,4 +55,6 @@
 
 #### 5.1 Single Responsibility Principle(SRS)
 #### 5.2 Open Closed Principle
-#### 5.3 
+#### 5.3 Liskov substitutability principle
+#### 5.4 Interface segregation:
+#### 5.5 Dependency Injection:
