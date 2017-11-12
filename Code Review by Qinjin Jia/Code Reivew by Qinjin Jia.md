@@ -68,6 +68,11 @@ public class Database {
 </br>
 
 ### 3. Coding best practices
+#### 3.1 Hard Coding
+#### 3.2 Enumeration
+#### 3.3 Comments
+#### 3.4 Mul if/else blocks
+#### 3.5 Framework features
 
 </br>
 
