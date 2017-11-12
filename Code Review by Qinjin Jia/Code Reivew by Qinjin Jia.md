@@ -40,7 +40,7 @@
 
 #### 1.1 Alignments
 #### 1.2 Naming Conventions
-#### 1.3 Code Overall
+#### 1.3 Code Layout
 #### 1.4 Commented Code
 
 
