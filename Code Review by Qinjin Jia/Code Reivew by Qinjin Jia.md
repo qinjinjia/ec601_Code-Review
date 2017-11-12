@@ -87,6 +87,6 @@ public class Database {
 ### Good Points:
 ### Can be better:
 
-**Finally, Good Luck for your project**:exclamation:
+**Finally, Good Luck for your project :D)**:exclamation:
 
 :trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface:
