@@ -7,7 +7,7 @@
   |The project reviewed| **[@github.com/kev5/Go-Meet](https://github.com/kev5/Go-Meet)**
   |--|--
   |**The Reviewer**| :boy: **Qinjin Jia** qjia@bu.edu   :point_right:[@github/qinjinjia](https://github.com/qinjinjia)
-  |**Criteria Followed**|   **[MIT 6.005 fall 15](http://web.mit.edu/6.005/www/fa15/classes/04-code-review/)**
+  |**Criteria Followed**| **[MIT 6.005 fall 15](http://web.mit.edu/6.005/www/fa15/classes/04-code-review/)**
 
 ## Overall
  :new_moon_with_face: This is an interesting project. This project is essentially a social/recreational application which gives information of all the events  (public/private) happening in the local vicinity of the user on a real-time basis.
