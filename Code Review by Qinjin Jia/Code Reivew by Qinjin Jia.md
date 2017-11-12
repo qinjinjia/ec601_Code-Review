@@ -1,4 +1,4 @@
-# EC601_Code Review
+# EC601_Code Review :mag:
 ## Brief Introduction :sunglasses:
   Hello Everyone! :trollface::trollface::trollface::trollface:
   
