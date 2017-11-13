@@ -210,7 +210,7 @@ The project utilizes **firebase** to achieve authentication. Dependency injectio
 
 :last_quarter_moon: The developers could add **some comments to help others understand the code**.
 
-:waning_crescent_moon: The java file :link: [MainActivity.java](https://github.com/kev5/Go-Meet/blob/master/MainActivity.java) contains **[magic number].
+:waning_crescent_moon: The java file :link: [MainActivity.java](https://github.com/kev5/Go-Meet/blob/master/MainActivity.java) contains **[magic number](https://en.wikipedia.org/wiki/Magic_number_(programming))**.
 
 
 :sun_with_face: **Finally, Good Luck for your project :D)**:exclamation:
