@@ -44,7 +44,7 @@
 The uses of alignments are perfect. The code block starting point and ending point are easily identifiable.
 
 #### 1.2 Naming Conventions
-The ‘camelCode’ nameing convention is used in the project. The developers utilize capital letters to indicate the start of a word, which makes name of variables be meaningful.
+The **‘camelCode’** nameing convention is used in the project. The developers utilize capital letters to indicate the start of a word, which makes name of variables be **meaningful**.
 
 #### 1.3 Code Layout
 :thumbsup:Perfect! The code can fit in the standard 14-inch laptop screen.
@@ -100,10 +100,20 @@ This might be solved by utilizing the enumeration.
         mWrite.writePosts("6",post06);
 ```
 #### 3.3 Comments
+There are some to-do comments mention pending tasks, which is good. For instance, in [User.java](https://github.com/kev5/Go-Meet/blob/master/User.java)
+```
+    public User() {
+        // Default constructor required for calls to DataSnapshot.getValue(User.class)
+    }
+```
+
+However, the developers could add some comments to help others understand the code.
 
 #### 3.4 Mul if/else blocks
+:thumbsup: Good, there is no multiple if/else block in the project.
 
 #### 3.5 Framework features
+N/A
 
 </br>
 
@@ -114,10 +124,7 @@ The project is still under development :construction:, therefore, **"Testability
 
 
 #### 4.2 Reusability
-DRY (Do not Repeat Yourself) principle: The same code should not be repeated more than twice.
-Consider reusable services, functions and components.
-Consider generic functions and classes.
-:link: [writeToFireBase.java](https://github.com/kev5/Go-Meet/blob/master/writeToFireBase.java)
+Some places in the code violate [DRY (Do not Repeat Yourself) principle](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself).Duplicated code is a risk to safety. If you have identical or very similar code in two places, then the fundamental risk is that there’s a bug in both copies, and some maintainer fixes the bug in one place but not the other. For instance, **DRY code** in :link: [writeToFireBase.java](https://github.com/kev5/Go-Meet/blob/master/writeToFireBase.java)
 ```
     public void likePost(String postID){
         DatabaseReference commentPostRef = this.writepostRef.child(postID);
@@ -130,7 +137,10 @@ Consider generic functions and classes.
     }
 ```
 
+However, the project utilizes **generic functions and classes**, which increase reusability of the project. 
+
 #### 4.3 Reliability:
+Exception handling is not found in the code, which could be considered to add after achieveing the main functions of the software.
 
 #### 4.4 Extensibility
 
