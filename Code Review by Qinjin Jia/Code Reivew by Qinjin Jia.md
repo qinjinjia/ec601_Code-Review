@@ -47,12 +47,12 @@ The uses of alignments are perfect. The code block starting point and ending poi
 The ‘camelCode’ nameing convention is used in the project. The developers utilize capital letters to indicate the start of a word, which makes name of variables be meaningful.
 
 #### 1.3 Code Layout
-Perfect! The code can fit in the standard 14-inch laptop screen.
+:thumbsup:Perfect! The code can fit in the standard 14-inch laptop screen.
 
 #### 1.4 Commented Code
 It seems that it is because the project is still under development :construction:. There are some commented code blocks in the project.
 
-For instance, the commented code in [Database.java](https://github.com/kev5/Go-Meet/blob/master/Database.java) should be delected (Or moved from the master branch).   
+For instance, the commented code in [Database.java](https://github.com/kev5/Go-Meet/blob/master/Database.java) should be delected (Or removed from the master branch).   
 ```
 public class Database {
     public FirebaseDatabase mDatabase;
@@ -74,6 +74,12 @@ and the commented code in [MainActivity.java](https://github.com/kev5/Go-Meet/bl
 </br>
 
 ### 2. Architecture
+
+It seems that the developers follow the [Singleton pattern](https://en.wikipedia.org/wiki/Singleton_pattern), which is good. 
+
+Additionally, code is in sync with existing code patterns/technologies.
+
+Therefore, the architecture of the project is nice.
 
 </br>
 
