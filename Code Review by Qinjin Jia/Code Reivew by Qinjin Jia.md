@@ -157,7 +157,7 @@ The developers considered the security of the software, **Authentication is addd
 The project is still under development :construction:, therefore, **Performance** of the project is not reviewed.
 
 #### 4.7 Scalability
-The **firebase realtime database** is utilized as the backend of the porject [writeToFireBase.java](https://github.com/kev5/Go-Meet/blob/master/writeToFireBase.java).  **The firebase realtime database** supports a large user base/data. Therefore, the scalability of the project is good.
+The **firebase realtime database** is utilized as the backend of the porject, which can be found in [writeToFireBase.java](https://github.com/kev5/Go-Meet/blob/master/writeToFireBase.java).  **The firebase realtime database** supports a large user base/data. Therefore, the scalability of the project is good.
 ```
     public writeToFireBase(){
         this.user = FirebaseAuth.getInstance().getCurrentUser();
@@ -175,9 +175,14 @@ The project is still under development :construction:, therefore, **Usability** 
 ### 5. Object-Oriented Analysis and Design (OOAD) Principles
 
 #### 5.1 Single Responsibility Principle(SRS)
+The classes in the code are checked, each single class or function has one responsibility. Therefore, the code **obeys the Single Responsibility Principle (SRS)**. 
+
 #### 5.2 Open Closed Principle
+
 #### 5.3 Liskov substitutability principle
+
 #### 5.4 Interface segregation:
+
 #### 5.5 Dependency Injection:
 
 ## Summary
