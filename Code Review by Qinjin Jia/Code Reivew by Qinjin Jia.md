@@ -175,7 +175,7 @@ The project is still under development :construction:, therefore, **Usability** 
 ### 5. Object-Oriented Analysis and Design (OOAD) Principles
 
 #### 5.1 Single Responsibility Principle(SRS)
-The classes in the code are checked, each single class or function has one responsibility. Therefore, the code **obeys the Single Responsibility Principle (SRS)**. 
+The classes in the code are checked, each single class or function has one responsibility. Therefore, **the code obeys the Single Responsibility Principle (SRS)**. Nice design! :clap:
 
 #### 5.2 Open Closed Principle
 
