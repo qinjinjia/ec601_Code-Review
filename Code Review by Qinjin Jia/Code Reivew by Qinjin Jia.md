@@ -143,15 +143,32 @@ However, the project utilizes **generic functions and classes**, which increase 
 Exception handling is not found in the code, which could be considered to add after achieveing the main functions of the software.
 
 #### 4.4 Extensibility
+The project utilizes classes and functions, which makes the code has **Good Extensibility**. The enhancements could be added to the existing code with minimal changes under this design(i.e. classes and functions).
 
 #### 4.5 Security
+The developers considered the security of the software, **Authentication is addded by utilizing the firebase** in [LoginActivity.java](https://github.com/kev5/Go-Meet/blob/master/LoginActivity.java).
+```
+        public void onClick(View v) {
+                final String email = mEmail.getText().toString();
+                final String password = mPassword.getText().toString();
+```               
 
 #### 4.6 Performance
+The project is still under development :construction:, therefore, **Performance** of the project is not reviewed.
 
 #### 4.7 Scalability
+The **firebase realtime database** is utilized as the backend of the porject [writeToFireBase.java](https://github.com/kev5/Go-Meet/blob/master/writeToFireBase.java).  **The firebase realtime database** supports a large user base/data. Therefore, the scalability of the project is good.
+```
+    public writeToFireBase(){
+        this.user = FirebaseAuth.getInstance().getCurrentUser();
+        this.database = FirebaseDatabase.getInstance();
+        this.writepostRef = this.database.getReference("posts");
+        this.userRef = this.database.getReference("users");
+    }
+```
 
 #### 4.8 Usability
-
+The project is still under development :construction:, therefore, **Usability** of the project is not reviewed.
 
 </br>
 
