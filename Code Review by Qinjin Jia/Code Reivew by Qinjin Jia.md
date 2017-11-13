@@ -197,20 +197,20 @@ The project utilizes **firebase** to achieve authentication. Dependency injectio
 
 :new_moon: The architecture of the project is nice.
 
-:waxing_crescent_moon: There are some to-do comments mention pending tasks, which is good.
+:waxing_crescent_moon: There are some **to-do comments** mention pending tasks, which is good.
 
-:first_quarter_moon: The **Readability** of the code is good. The developers considered the security of the software, **Authentication is addded by utilizing the firebase**
+:first_quarter_moon: The **Readability** of the code is good. The developers considered the security of the software, **Authentication is addded by utilizing the firebase**.
 
-:waxing_gibbous_moon: The project obeys **Single Responsibility Principle(SRS)**, **Open Closed Principle**, **Liskov substitutability principle**. 
+:waxing_gibbous_moon: The project obeys **Single Responsibility Principle(SRS)**, **Open Closed Principle** and **Liskov substitutability principle**. 
 
 ### Can be better:
-:full_moon:
+:full_moon: **GitHub file structure and directory structure is not clearly understandable**. It seems that it is because the project is still under development :construction:.
 
-:waning_gibbous_moon:
+:waning_gibbous_moon:There are some **commented code blocks** in the project. The commented code blocks could keep in other branch rather than the master branch.
 
-:last_quarter_moon:
+:last_quarter_moon: The developers could add **some comments to help others understand the code**.
 
-:waning_crescent_moon:
+:waning_crescent_moon: The java file :link: [MainActivity.java](https://github.com/kev5/Go-Meet/blob/master/MainActivity.java) contains **[magic number].
 
 
 :sun_with_face: **Finally, Good Luck for your project :D)**:exclamation:
