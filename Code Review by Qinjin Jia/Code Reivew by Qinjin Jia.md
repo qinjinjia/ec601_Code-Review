@@ -179,6 +179,7 @@ The classes in the code are checked, each single class or function has one respo
 
 #### 5.2 Open Closed Principle
 
+
 #### 5.3 Liskov substitutability principle
 
 #### 5.4 Interface segregation:
