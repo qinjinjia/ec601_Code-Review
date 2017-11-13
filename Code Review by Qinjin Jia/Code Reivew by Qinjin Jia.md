@@ -83,7 +83,8 @@ and the commented code in [MainActivity.java](https://github.com/kev5/Go-Meet/bl
 :thumbsup: Good!. There is no [hard coding](https://en.wikipedia.org/wiki/Hard_coding) in the project.
 
 #### 3.2 Enumeration
-The java file :link: [MainActivity.java](https://github.com/kev5/Go-Meet/blob/master/MainActivity.java) contains **[magic number](https://en.wikipedia.org/wiki/Magic_number_(programming))** 
+The java file :link: [MainActivity.java](https://github.com/kev5/Go-Meet/blob/master/MainActivity.java) contains **[magic number](https://en.wikipedia.org/wiki/Magic_number_(programming))**. It is difficult to understand what is the meaning of 1, 2, 3 etc here.
+This might be solved by utilizing the enumeration.
 ```
         mWrite.writePosts("1",post01);
         mWrite.writePosts("2",post02);
