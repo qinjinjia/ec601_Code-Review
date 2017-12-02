@@ -52,7 +52,7 @@ The **‘camelCode’** nameing convention is used in the project. The developer
 #### 1.4 Commented Code
 It seems that it is because the project is still under development :construction:. There are some commented code blocks in the project.
 
-For instance, the commented code in [Database.java](https://github.com/kev5/Go-Meet/blob/master/Database.java) should be delected (Or removed from the master branch).   
+For instance, the commented code in [Database.java](https://github.com/kev5/Go-Meet/blob/master/Database.java) should be deleted (Or removed from the master branch).   
 ```
 public class Database {
     public FirebaseDatabase mDatabase;
